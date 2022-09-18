@@ -1,0 +1,12 @@
+IO
+input : Giriş
+output : Çıkış
+
+File : Dosya / f 
+Put : Yazdırma
+Open : Açma 
+Close : Kapatma
+Write : Yazma / w
+Read : Okuma / r 
+Add : Ekleme / a
+

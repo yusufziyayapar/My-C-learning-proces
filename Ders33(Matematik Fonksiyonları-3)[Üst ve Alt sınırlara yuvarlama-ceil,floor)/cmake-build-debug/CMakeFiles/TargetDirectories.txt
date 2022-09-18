@@ -1,0 +1,3 @@
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders33(Matematik Fonksiyonları-3)[Üst ve Alt sınırlara yuvarlama-ceil,floor)/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders33(Matematik Fonksiyonları-3)[Üst ve Alt sınırlara yuvarlama-ceil,floor)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders33(Matematik Fonksiyonları-3)[Üst ve Alt sınırlara yuvarlama-ceil,floor)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

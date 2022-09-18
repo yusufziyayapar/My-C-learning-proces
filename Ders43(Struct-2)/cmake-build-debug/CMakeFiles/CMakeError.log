@@ -1,0 +1,8 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders43(Struct-2)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/CLion 2022.1.3/bin/ninja/win/ninja.exe cmTC_aafa1 && ninja: error: unknown target 'cmTC_aafa1'
+
+
+
+

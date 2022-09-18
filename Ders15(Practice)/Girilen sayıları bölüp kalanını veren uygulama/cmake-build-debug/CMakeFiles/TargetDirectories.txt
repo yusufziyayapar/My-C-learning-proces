@@ -1,0 +1,3 @@
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders15 e geçmeden önce alıştırmalar/Girilen sayıları bölüp kalanını veren uygulama/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders15 e geçmeden önce alıştırmalar/Girilen sayıları bölüp kalanını veren uygulama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders15 e geçmeden önce alıştırmalar/Girilen sayıları bölüp kalanını veren uygulama/cmake-build-debug/CMakeFiles/rebuild_cache.dir

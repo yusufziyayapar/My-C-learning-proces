@@ -1,0 +1,3 @@
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders25(Satır,sütun ve elemanları klavyeden girilen matrisi oluşturup yazdırmak)/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders25(Satır,sütun ve elemanları klavyeden girilen matrisi oluşturup yazdırmak)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders25(Satır,sütun ve elemanları klavyeden girilen matrisi oluşturup yazdırmak)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

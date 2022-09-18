@@ -1,0 +1,3 @@
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders28(Vize Final Soru Çözümleri-2)/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders28(Vize Final Soru Çözümleri-2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yavuz Selim/Desktop/C derslerim/Clion/Ders28(Vize Final Soru Çözümleri-2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
